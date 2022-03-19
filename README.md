@@ -1,3 +1,3 @@
 # demo_repository
-this my first test repositary
+this is my first test repositary
 adding changes 
